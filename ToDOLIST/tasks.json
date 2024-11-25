@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "name": "Bake a cookie"
+        },
+        {
+            "name": "Eat 10 bananas"
+        },
+        {
+            "name": "Become invisible"
+        },
+        {
+            "name": "Stop"
+        },
+        {
+            "name": "Walk for 15 min"
+        },
+        {
+            "name": "Buy eggs"
+        }
+    ]
+}
